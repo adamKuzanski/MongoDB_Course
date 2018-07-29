@@ -1,0 +1,11 @@
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\bin\Debug\netcoreapp2.1\MongoDB_part2.deps.json
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\bin\Debug\netcoreapp2.1\MongoDB_part2.runtimeconfig.json
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\bin\Debug\netcoreapp2.1\MongoDB_part2.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\bin\Debug\netcoreapp2.1\MongoDB_part2.dll
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\obj\Debug\netcoreapp2.1\MongoDB_part2.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\obj\Debug\netcoreapp2.1\MongoDB_part2.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\obj\Debug\netcoreapp2.1\MongoDB_part2.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\obj\Debug\netcoreapp2.1\MongoDB_part2.AssemblyInfo.cs
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\bin\Debug\netcoreapp2.1\MongoDB_part2.pdb
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\obj\Debug\netcoreapp2.1\MongoDB_part2.dll
+C:\Users\Adam\Desktop\KODOWANIE\C#\MongoDB_part2\MongoDB_part2\obj\Debug\netcoreapp2.1\MongoDB_part2.pdb

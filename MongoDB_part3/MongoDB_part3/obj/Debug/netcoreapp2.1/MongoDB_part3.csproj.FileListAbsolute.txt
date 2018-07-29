@@ -1,0 +1,11 @@
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\bin\Debug\netcoreapp2.1\MongoDB_part3.deps.json
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\bin\Debug\netcoreapp2.1\MongoDB_part3.runtimeconfig.json
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\bin\Debug\netcoreapp2.1\MongoDB_part3.runtimeconfig.dev.json
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\bin\Debug\netcoreapp2.1\MongoDB_part3.dll
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\obj\Debug\netcoreapp2.1\MongoDB_part3.csprojAssemblyReference.cache
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\obj\Debug\netcoreapp2.1\MongoDB_part3.csproj.CoreCompileInputs.cache
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\obj\Debug\netcoreapp2.1\MongoDB_part3.AssemblyInfoInputs.cache
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\obj\Debug\netcoreapp2.1\MongoDB_part3.AssemblyInfo.cs
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\bin\Debug\netcoreapp2.1\MongoDB_part3.pdb
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\obj\Debug\netcoreapp2.1\MongoDB_part3.dll
+C:\Users\Adam\Desktop\KODOWANIE\C#\We learn MongoDB\MongoDB_part3\MongoDB_part3\obj\Debug\netcoreapp2.1\MongoDB_part3.pdb
